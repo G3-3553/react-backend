@@ -11,7 +11,7 @@ app = FastAPI()
 # Enable Cross-Origin Resource Sharing (CORS)
 #app.add_middleware(
  #   CORSMiddleware,
- #   allow_origins=["http://localhost:5173", "https://react-frontend-6bos.onrender.com"],  # Replace with production URL if applicable
+ #   allow_origins=["http://localhost:5173", "https://react-frontend-air-quality.onrender.com"],  # Replace with production URL if applicable
   #  allow_credentials=True,
   #  allow_methods=["*"],
   #  allow_headers=["*"],
