@@ -52,23 +52,3 @@ index.html
 !air_quality.pkl
 !scaler.pkl
 
-
-# Ignore system files
-Thumbs.db
-
-# Ignore unnecessary files
-src/  # Source folder is likely unnecessary for backend
-public/  # Public folder is likely frontend-related
-.eslint.config.js
-package-lock.json
-package.json
-vite.config.js
-index.html
-
-# Allow these essential files
-!requirements.txt
-!runtime.txt
-!Procfile
-!fast.py
-!air_quality.pkl
-!scaler.pkl
